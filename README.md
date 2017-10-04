@@ -6,7 +6,8 @@
 
 The basics of Classroom Pi is a monitoring and tracking system, but we have combined it with software and data, to achieve a multi-functional product. Using Classroom Pi, teachers are able to take attendance more efficiently and more conveniently, thus saving many time that are otherwise wasted. Students can use this system to find friends and teachers easily. Administrative staffs can use this system to track and collect students' attendance data, which can act not only as a reference of the student's behavior and attitude, but also as a method to find a specific student under emergency situations, and thus minimizing any possible hazards. Furthermore, using Classroom Pi's numerous features, we can make extended system, such as tracking the elders' position in nursing homes; locating prisoners' location and status in jails; fast check-in process in businesses, etc. All these functionalities make Classroom Pi a very useful product.
 
-**Check out our introduction video of Classroom Pi [over here](https://cache.peterhuang.cn/video2.mov).**
+**Check out our introduction video of Classroom Pi [over here](https://youtu.be/JAxsCaUmV1s).**
+ [![YouTube Video](https://img.youtube.com/vi/JAxsCaUmV1s/0.jpg)](https://www.youtube.com/watch?v=JAxsCaUmV1s)
 
 ## Idea
 In our school, before every class, the teachers will need to spend quite a lot of time taking attendance. And, if the teacher forgot about it, our school assigned a teacher to just go around and remind the teachers to take attendance. We think this system is really time-wasting and inefficient, and also a waste of staff resources, therefore, the idea of Classroom Pi came into our minds.
